@@ -10,7 +10,7 @@ https://github.com/pratik1596/CS643_Wine_Prediction/blob/main/readme.docx
 
 #Docker Image Link
 
-
+https://hub.docker.com/r/pratik1596/pratikkulkarni-cloudcomputing-cs643-assignment2-wine-prediction
 
 #Before Running Program
 1) Input file should be under data/ and have name as TestDataset.csv
