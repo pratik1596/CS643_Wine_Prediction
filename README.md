@@ -6,8 +6,7 @@ Goal: The purpose of this individual assignment is to learn how to develop paral
 
 #Readme File
 
-
-
+https://github.com/pratik1596/CS643_Wine_Prediction/blob/main/readme.docx
 
 #Docker Image Link
 
