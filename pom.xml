@@ -154,7 +154,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <repository>pratik1596/CS643_Wine_Prediction</repository>
+                    <repository>pratik1596/pratikkulkarni-cloudcomputing-cs643-assignment2-wine-prediction</repository>
                     <tag>${project.version}</tag>
                     <skipDockerInfo>true</skipDockerInfo>
                 </configuration>
