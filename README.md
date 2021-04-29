@@ -20,5 +20,5 @@ Goal: The purpose of this individual assignment is to learn how to develop paral
 
 docker pull pratik1596/CS643_Wine_Prediction
 
-Docker run -v [fullLocalPath of TestDataset.csv: data/TestDataset.csv ] pratik1596/CS643_Wine_Prediction
+docker run -v [fullLocalPath of TestDataset.csv: data/TestDataset.csv ] pratik1596/CS643_Wine_Prediction
 
